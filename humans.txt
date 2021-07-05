@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks to Git Training
+	I like this course!
 
 # TECHNOLOGY COLOPHON
 
